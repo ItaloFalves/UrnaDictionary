@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\bin\Debug\net8.0\UrnaDictionary.exe
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\bin\Debug\net8.0\UrnaDictionary.deps.json
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\bin\Debug\net8.0\UrnaDictionary.runtimeconfig.json
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\bin\Debug\net8.0\UrnaDictionary.dll
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\bin\Debug\net8.0\UrnaDictionary.pdb
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.dll
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\refint\UrnaDictionary.dll
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.pdb
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\UrnaDictionary.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\UrnaDictionary\UrnaDictionary\UrnaDictionary\obj\Debug\net8.0\ref\UrnaDictionary.dll
